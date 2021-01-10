@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matei_Proiect", "Matei_Proiect.csproj", "{4FE738CE-0EEF-4C33-9448-2AC946C33975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE738CE-0EEF-4C33-9448-2AC946C33975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE738CE-0EEF-4C33-9448-2AC946C33975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE738CE-0EEF-4C33-9448-2AC946C33975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE738CE-0EEF-4C33-9448-2AC946C33975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED74DF58-30FE-48E7-8FF2-24E4C36210BB}
+	EndGlobalSection
+EndGlobal
